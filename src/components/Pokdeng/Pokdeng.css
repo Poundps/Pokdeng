@@ -1,0 +1,122 @@
+body{
+  color: black;
+}
+
+.logout{
+float:right;
+margin:10px 0px;
+}
+.contentlotto{
+  width: 100%;
+  background-color: white;
+  padding-top: 30px;
+  height: 800px;
+
+}
+.con h2{
+  float: right;
+
+}
+.chip{
+  float: right;
+  margin-bottom: 10px;
+  margin-right: 30px;
+  width: auto;
+}
+.Gamedisplay {
+
+  color:black;
+ font-weight: bold;
+ font-size: 20px;
+  width:1200px;
+  height: 500px;
+  position: absolute;
+  left: 50%;
+  top:45%;
+  transform: translate(-50%, -50%);
+background-color: #008000;
+}
+.Banker{
+  float:left;
+  margin-left: 10px;
+  width: 590px;
+  height: 500px;
+
+}
+.card{
+  width: 170px;
+  height: 300px;
+  border: solid;
+  float:left;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 30px;
+  color:white;
+}
+.name{
+  font-size: 30px;
+  margin-left: 20px;
+  font-weight: bold;
+    float: left;
+}
+.Player{
+  float: right;
+   margin-left: 10px;
+  width: 590px;
+  height: 500px;
+}
+.Gamedisplay button{}
+.img{
+  margin-top:20px;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.Balance{
+  position: absolute;
+  margin-top: 500px;
+  float: left;
+  margin-left: 20px;
+
+}
+.score{
+  float: right;
+  margin-top: 500px;
+  margin-right: 100px;
+
+}
+.score table,td,th{
+  width: 300px;
+
+}
+.status{
+  font-size: 50px
+}
+.Gamedisplay label{
+  margin-top: 20px;
+color: white;
+font-size: 30px;
+border-radius: 10px;
+ border: solid;
+ width: 200px;
+}
+
+
+#th1{
+  color: white;
+  background-color: #1E2F93;
+}
+
+table, th, td {
+
+  width:500px;
+  border: 3px solid #1E2F93;
+  border-collapse: collapse;
+
+}
+th, td {
+  color:#1E2F93;
+  padding: 5px;
+  text-align: left;
+    text-align: center;
+}

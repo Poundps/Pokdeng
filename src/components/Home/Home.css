@@ -1,0 +1,39 @@
+body{
+  color: black;
+}
+.logout{
+float:right;
+margin:10px 0px;
+}
+.contenthome{
+  width: 100%;
+  background-color: white;
+  padding-top: 30px;
+  height: 600px;
+
+}
+.name{
+  font-size: 30px;
+  margin-left: 20px;
+  font-weight: bold;
+    float: left;
+}
+.con h2{
+  float: right;
+
+}
+.chip{
+  float: right;
+  margin-bottom: 10px;
+  margin-right: 30px;
+  width: auto;
+}
+.Game {
+  float: left;
+  color:black;
+ font-weight: bold;
+ font-size: 20px;
+  width:300px;
+  text-align: center;
+  margin-right: 50px;
+}

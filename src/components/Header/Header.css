@@ -1,0 +1,17 @@
+
+.Header{
+background-color: rgba(21, 33, 105);
+  width: 100%;
+  color: white;
+
+}
+h1{
+    font-family: "Cambria";
+    border:solid;
+    margin-top: 20px;
+    width: 280px;
+    text-align: center;
+}
+a{
+  color: white;
+}
